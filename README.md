@@ -1,7 +1,7 @@
 ### About me 👋
 
 - :woman_student: Currently studying Computer Science and Engineering, 3rd year
-- :woman_technologist: I am ambitious, creative and a quick-learner
+- :woman_technologist: I am ambitious, creative, quality focused and a quick-learner
 - 📫 diana.iuliana.cismaru@gmail.com
 
 ### Languages & Tools
